@@ -1,5 +1,5 @@
 %% 
-%% AWR2243 Feature Extraction - 100 Features (New Wall Data)
+%% AWR1843 Feature Extraction - 100 Features (New Wall Data)
 %% Processes all .bin files from 8 classes and generates a single CSV file
 %%
 clear; clc; close all;
