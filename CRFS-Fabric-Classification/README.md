@@ -1,5 +1,5 @@
 # CRFS - Fabric Classification
-
+CRFS - Condition-Robust spectral Feature Selection
 ## What this is about
 
 When a radar is deployed in real life, it cannot always be at the 
