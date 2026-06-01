@@ -15,14 +15,14 @@ is computed, and the weakest features are removed. This continues for
 
 ## Dataset
 
-We collected our own wall material dataset using the TI AWR2243 radar.
+We collected our own wall material dataset using the TI AWR1843 radar and DCA1000EVM capture card.
 
 Classes : Transparent glass wall, Smooth glass board, Cement wall, 
           Metal door, Vinyl floor, Olefin carpet floor, Ceramic tile, 
           Concrete wall
 
 Radar placement : 30 to 90 cm range, azimuth and elevation both 
-                  at plus minus 70 degrees
+                  at +/- 70 degrees
 
 Data size : 8 classes, 20 experiments per class, 1024 frames 
             per experiment
